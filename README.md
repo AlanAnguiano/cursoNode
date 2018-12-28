@@ -1,3 +1,3 @@
-##Node curso consola
+## Node curso consola
 
 app sencilla de consola de curso
